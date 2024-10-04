@@ -1,61 +1,68 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey...+I'm+Manas;Welcome+to+my+GitHub!;" alt="Typing SVG"/></h1>
-    <p><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Terminal GIF" /></p>
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Manas;Welcome+to..;..my+Github..;" alt="Typing SVG"/></h1>
+    <p><img src="https://c.tenor.com/SOVMSXmWB1cAAAAC/welcome.gif" alt="Welcome GIF" width="500"/></p>
 </div>
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a highly motivated Electronics and Communication Engineering student at GITAM University. I specialize in programming, cloud technologies, AI/ML, and DevOps. I'm always looking for opportunities to learn and collaborate on technology-driven projects. Currently, I'm focusing on cloud resource management and embedded systems.</p>
+    <p>I'm an Electronics and Communication Engineering student at GITAM University, with a strong foundation in AI, Cloud Technologies, and Embedded Systems. Eager to apply my skills and contribute to impactful tech projects, while continuously growing as a future technology leader.</p>
 </div>
 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-<p>Let's connect and collaborate on exciting projects or exchange innovative ideas! You can reach me via LinkedIn or GitHub.</p>
+<p> To connect with me, you can find my professional profile and contact details on LinkedIn. Feel free to reach out for collaborations, opportunities, or just to discuss the latest in technology!</p>
 <div align="center">
-  <a href="https://www.linkedin.com/in/manas-ranjan-p-766242224">
-    <img src="https://img.shields.io/badge/LinkedIn-Manas%20Ranjan%20Pati-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/manas-ranjan-p-766242224/">
+    <img src="https://img.shields.io/badge/ManasRanjanPati-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/ManasDevHub">
-    <img src="https://img.shields.io/badge/GitHub-ManasDevHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/ManasDevHub" target="_blank">
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=ManasDevHub&style=for-the-badge" alt="Profile views" />
 </div>
 
 <div align="center">
-  <h2>🚀 GitHub Activity</h2>
-    <p>Here are some of the projects I'm currently working on. Feel free to explore my repositories to see what I've been up to!</p>
-  <img src="https://raw.githubusercontent.com/ManasDevHub/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation"/>
+  <h2>🚀 Github Commits</h2>
+    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
+  <img src="https://raw.githubusercontent.com/ManasDevHub/ManasDevHub/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+  <img src="https://raw.githubusercontent.com/ManasDevHub/ManasDevHub/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
 
-<h2 align="center" class="section-heading">💻 Programming Languages & Tools</h2>
-<p>I have a strong foundation in a variety of programming languages and tools. Here's what I'm proficient in:</p>
+<h2 align="center" class="section-heading">💻 Programming Languages</h2>
+<p>Here are the programming languages I use to build solutions and explore new technologies:</p>
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/PL/SQL-336791?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL"/>
 </div>
 
 <h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
-<p>I have experience working with leading cloud platforms and developing scalable cloud solutions. Here are some of the cloud tools I use:</p>
+<p>I specialize in working with leading cloud platforms to develop scalable and cost-efficient solutions:</p>
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
-<h2 align="center" class="section-heading">📊 GitHub Stats</h2>
 <div align="center">
-  <table align="center" width="100%" height="100%">
+<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
+<p>Check out my GitHub activity, milestones, and contributions!</p>
+ <table align="center" width="100%" height="100%" >
     <tr>
-       <td><img src="https://github-readme-stats.vercel.app/api?username=ManasDevHub&show_icons=true&theme=radical" alt="Manas's GitHub Stats"/></td>
-       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ManasDevHub&theme=radical" alt="Manas's GitHub Streak"/></td>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManasDevHub&theme=github_dark" alt="Manas's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=ManasDevHub&theme=merko" alt="Manas's Contribution Streak"/></td>
     </tr>
-  </table>
+ </table>
+
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManasDevHub&theme=github_dark" alt="Manas's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ManasDevHub&theme=github_dark&utcOffset=5.5" alt="Manas's Productive Time"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManasDevHub&theme=github_dark" alt="Languages Used"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManasDevHub&theme=github_dark" alt="Most Commit Language"/></td>
+    </tr>
+ </table>
 </div>
