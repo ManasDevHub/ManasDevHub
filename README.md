@@ -12,9 +12,8 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/manas-ranjan-p-766242224/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:mranjanpt@gmail.com"><img src="https://img.shields.io/badge/Email-mranjanpt%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Certified Solutions Architect Associate" />
+    <a href="https://www.credly.com/badges/831a4cad-7809-4835-9d72-960dca12b919"><img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Certified Solutions Architect Associate" /></a>
     <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-555555?style=flat-square" alt="Location" />
-    <img src="https://komarev.com/ghpvc/?username=ManasDevHub&style=flat-square&color=0A66C2" alt="Profile Views" />
   </p>
 </div>
 
@@ -124,30 +123,13 @@ Software Development Engineer in Test (SDET) and Quality Assurance Engineer with
 ## Certifications & Education
 
 ### Certifications
-- **AWS Certified Solutions Architect – Associate (SAA-C03)** — Amazon Web Services *(2026)*
+- [**AWS Certified Solutions Architect – Associate (SAA-C03)**](https://www.credly.com/badges/831a4cad-7809-4835-9d72-960dca12b919) — Amazon Web Services *(2026)*
 - **Foundations of Software Testing and Validation** *(2025)*
 - **Google Project Management Professional Certificate** *(2025)*
 
 ### Education
 - **Bachelor of Technology (B.Tech) in Electronics & Communication Engineering**  
   *GITAM University, Visakhapatnam (GPA: 8.25 / 10 | 2021 – 2025)*
-
----
-
-## GitHub Metrics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ManasDevHub&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasDevHub&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
