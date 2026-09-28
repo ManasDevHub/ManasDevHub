@@ -1,45 +1,45 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm <span style="color: #00b4d8;">Manas Ranjan Pati</span> 👋</h1>
-  
+  <h1 align="center">Manas Ranjan Pati</h1>
+
   <a href="https://github.com/ManasDevHub">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D2FF&center=true&vCenter=true&width=700&lines=QA+Automation+Engineer+%7C+SDET;Playwright+%E2%80%A2+Python+%E2%80%A2+TypeScript+%E2%80%A2+Pytest;AI-Assisted+Testing+%26+CI%2FCD+Quality+Gating;AWS+Certified+Solutions+Architect+%E2%80%93+Associate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Software+Development+Engineer+in+Test+(SDET);Test+Automation+Architect+%E2%80%A2+Playwright+%E2%80%A2+Python+%E2%80%A2+TypeScript;CI%2FCD+Quality+Gating+%26+Continuous+Testing;AWS+Certified+Solutions+Architect+%E2%80%93+Associate" alt="Role and Specialization" />
   </a>
 
   <p align="center">
-    <strong>Crafting resilient UI & API test automation frameworks • Scaling continuous quality in CI/CD</strong>
+    <strong>UI & API Test Automation Frameworks | CI/CD Quality Gating | Cloud Architecture</strong>
   </p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/manas-ranjan-p-766242224/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:mranjanpt@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Assoc-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS SAA-C03" />
-    <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-238636?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-    <img src="https://komarev.com/ghpvc/?username=ManasDevHub&style=for-the-badge&color=0077B5" alt="Profile Views" />
+    <a href="https://www.linkedin.com/in/manas-ranjan-p-766242224/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:mranjanpt@gmail.com"><img src="https://img.shields.io/badge/Email-mranjanpt%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Certified Solutions Architect Associate" />
+    <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-555555?style=flat-square" alt="Location" />
+    <img src="https://komarev.com/ghpvc/?username=ManasDevHub&style=flat-square&color=0A66C2" alt="Profile Views" />
   </p>
 </div>
 
 ---
 
-### 🎯 About Me
+## Profile Overview
 
-I am a **Software Development Engineer in Test (SDET) / QA Engineer** specialized in architecting scalable, resilient UI and REST API test automation frameworks. With a background spanning multi-tenant SaaS platforms, enterprise financial compliance systems, and cloud infrastructure, I focus on catching regressions before production through robust automation pipelines and shift-left quality practices.
+Software Development Engineer in Test (SDET) and Quality Assurance Engineer with deep experience designing modular UI and REST API test automation frameworks across multi-tenant SaaS and enterprise regulatory systems. Focused on early regression detection, deterministic test suites, and automated CI/CD gating.
 
-- ⚙️ **Automation Framework Architecture:** Proficient in designing modular, maintainable frameworks using **Playwright**, **Python (Pytest)**, **TypeScript**, and **Cucumber (BDD)** implementing strict Page Object Model (POM) principles.
-- 🤖 **AI-Assisted Testing Pioneer:** Active practitioner of modern AI-assisted QA workflows — leveraging LLMs and AI coding assistants for intelligent test generation, synthetic edge-case modeling, QA documentation, and automated root-cause analysis on test failures.
-- 🚀 **CI/CD & Pipeline Quality Gating:** Deep experience embedding automated test suites into **GitHub Actions** workflows with automated reporting, reducing release turnaround times from hours to minutes.
-- 🔍 **Full-Spectrum Quality Assurance:** Hands-on expertise spanning backend REST API validation (Postman, Playwright APIRequestContext), ETL/data-processing logic verification, security vulnerability scanning (**OWASP ZAP**), and performance/load testing (**Apache JMeter**).
-- ☁️ **Cloud Native:** **AWS Certified Solutions Architect – Associate (SAA-C03)** with strong grounding in cloud services, microservices architecture, and scalable system design.
+- **Automation Architecture:** Engineered Page Object Model (POM) and BDD frameworks using Playwright, Python (Pytest), and TypeScript, reducing test execution overhead and eliminating flaky test runs.
+- **AI-Assisted QA Workflows:** Integrated modern LLMs into daily engineering workflows for rapid test case derivation, automated edge-case synthesis, and accelerated root-cause failure analysis.
+- **CI/CD Quality Gating:** Implemented automated test suites inside GitHub Actions pipelines with comprehensive reporting, shifting validation left and gating deployments against regressions.
+- **Non-Functional Testing:** Conducted automated REST API testing (Postman, Playwright APIRequestContext), security testing via OWASP ZAP, and performance benchmarking with Apache JMeter.
+- **Systems & Cloud Design:** AWS Certified Solutions Architect – Associate (SAA-C03) with a practical understanding of cloud services, microservices, and distributed architecture.
 
 ---
 
-### 🧪 Featured QA Automation Frameworks
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">
         <a href="https://github.com/ManasDevHub/e-invoicing-qa-automation-framework">
-          ⚡ UAE E-Invoicing QA Automation Framework
+          UAE E-Invoicing QA Automation Framework
         </a>
       </h3>
       <p align="center">
@@ -50,22 +50,22 @@ I am a **Software Development Engineer in Test (SDET) / QA Engineer** specialize
         <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" />
       </p>
       <p>
-        An enterprise end-to-end UI and REST API automation framework tailored for validating regulatory e-invoicing platforms adhering to the <strong>UAE PINT AE standard</strong> (Clarivoo).
+        End-to-end UI and REST API test automation framework built to validate enterprise compliance for the <strong>Clarivoo UAE PINT AE E-Invoicing Platform</strong> under UAE regulatory requirements.
       </p>
       <ul>
-        <li><strong>Unified Engine:</strong> Leverages Playwright for both browser-based UI flows and direct high-speed <code>APIRequestContext</code> REST execution.</li>
-        <li><strong>Strict Compliance Verification:</strong> Validates 51 mandatory PINT AE specifications, TRN structural formatting, and standard VAT calculation accuracy.</li>
-        <li><strong>BDD Living Documentation:</strong> Scenario specifications authored in Gherkin with zero raw assertions in step definitions.</li>
-        <li><strong>Data-Driven Ingestion:</strong> Automated batch validation for multi-line invoice files using <code>ExcelJS</code> and XML parsers.</li>
+        <li><strong>Unified Engine:</strong> Utilizes Playwright natively for both browser-based interface validation and low-latency <code>APIRequestContext</code> REST testing.</li>
+        <li><strong>Regulatory Compliance:</strong> Validates 51 mandatory PINT AE invoice specifications, TRN format integrity, and standard VAT calculation routines.</li>
+        <li><strong>BDD Living Documentation:</strong> Authored in Gherkin with decoupled step definitions, strictly isolating test assertions from UI interactions.</li>
+        <li><strong>Data-Driven Testing:</strong> Processes large batch fixtures (.xlsx and .xml) via <code>ExcelJS</code> and data parsing utilities.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/ManasDevHub/e-invoicing-qa-automation-framework"><strong>Explore Framework & Architecture →</strong></a>
+        <a href="https://github.com/ManasDevHub/e-invoicing-qa-automation-framework"><strong>View Repository</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">
         <a href="https://github.com/ManasDevHub/saucedemo-qa-automation">
-          🛒 SauceDemo QA Automation & Test Governance
+          SauceDemo QA Automation & Test Governance
         </a>
       </h3>
       <p align="center">
@@ -73,19 +73,19 @@ I am a **Software Development Engineer in Test (SDET) / QA Engineer** specialize
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
         <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
         <img src="https://img.shields.io/badge/IEEE_829-Test_Plan-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/RTM-Traceability-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/RTM-Traceability-2ea44f?style=flat-square" />
       </p>
       <p>
-        A comprehensive, industry-standard Quality Assurance portfolio demonstrating end-to-end testing methodologies, formal test governance, and automation on an e-commerce platform.
+        Production-grade Quality Assurance portfolio demonstrating the complete software testing lifecycle (STLC), formal test governance, and automation on a modern React storefront.
       </p>
       <ul>
-        <li><strong>Structured STLC Progression:</strong> Requirements analysis ➔ IEEE 829 Master Test Plan ➔ Scenario Matrix ➔ Test Cases ➔ Defect Register ➔ Automation.</li>
-        <li><strong>Requirements Traceability Matrix (RTM):</strong> End-to-end bi-directional traceability connecting functional specs to automation IDs and defects.</li>
-        <li><strong>Robust Coverage:</strong> Equivalence Partitioning and Boundary Value Analysis across 7 core modules (Authentication, Sorting, Cart, Multi-step Checkout).</li>
-        <li><strong>Authentic Defect Governance:</strong> Formal defect reports backed by visual evidence, exact reproduction steps, and root-cause indicators.</li>
+        <li><strong>Formal Test Governance:</strong> Built around an IEEE 829 Master Test Plan, detailed scenario matrices, test cases, and a bi-directional Requirements Traceability Matrix (RTM).</li>
+        <li><strong>Systematic Module Coverage:</strong> Applied Equivalence Partitioning and Boundary Value Analysis across authentication, catalog rendering, dynamic sorting, cart persistence, and multi-step checkout.</li>
+        <li><strong>Defect Integrity:</strong> Documented defect register featuring reproducible steps, HTTP logs, and screenshot evidence.</li>
+        <li><strong>Pytest & Playwright Framework:</strong> Modular Page Object Model architecture designed for CI pipeline execution and reporting.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/ManasDevHub/saucedemo-qa-automation"><strong>Explore Portfolio & Test Artifacts →</strong></a>
+        <a href="https://github.com/ManasDevHub/saucedemo-qa-automation"><strong>View Repository</strong></a>
       </p>
     </td>
   </tr>
@@ -93,126 +93,66 @@ I am a **Software Development Engineer in Test (SDET) / QA Engineer** specialize
 
 ---
 
-### 💼 Professional Impact & Proven Track Record
+## Professional Experience
 
-> **QA Engineer (L2A)** at **Adamas Tech Consulting** *(August 2025 – Present | Bengaluru, India)*
+**QA Engineer (L2A)** | **Adamas Tech Consulting**  
+*August 2025 – Present | Bengaluru, India*
 
-- **Arivoo LMS (Multi-Tenant SaaS Platform):** Designed and built a modular Python + Playwright + Pytest framework with POM architecture, **cutting regression execution time by 60%** across Admin, Teacher, and Student personas.
-- **Continuous Quality CI/CD:** Integrated automation suites into **GitHub Actions** with rich automated reporting, slashing regression turnaround from **8 hours to 3 hours** per release cycle (4 releases/month) and eliminating post-release regressions.
-- **AI-Powered Acceleration:** Integrated AI workflows into daily QA routines to accelerate test authoring, generate complex edge cases, and run instant root-cause analysis on failing test runs.
-- **Non-Functional & Security Testing:** Conducted security vulnerability assessments using **OWASP ZAP** (identified 15+ vulnerabilities with a 90% pre-release resolution rate) and load-tested backend endpoints via **Apache JMeter** at 100+ concurrent virtual users.
-- **API & Cross-Platform Mobile Coverage:** Built comprehensive REST API coverage with Postman and cross-platform mobile verification (Android & iOS) covering 50+ endpoints and 100+ test scenarios per release.
-- **ETL & Data Transformation Validation:** Verified data-processing correctness for UAE tax compliance tools, securing **99%+ accuracy** across 100+ critical compliance test fixtures.
-
----
-
-### 🛠️ Technical Arsenal
-
-<table align="center" width="100%">
-  <tr>
-    <td width="25%" valign="top"><strong>Test Automation & BDD</strong></td>
-    <td width="75%">
-      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cucumber_BDD-23D96C?style=flat-square&logo=cucumber&logoColor=white" />
-      <img src="https://img.shields.io/badge/Page_Object_Model-333333?style=flat-square" />
-      <img src="https://img.shields.io/badge/Data--Driven_Testing-555555?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Languages & Runtimes</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/SQL_%2F_PL--SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>API & Systems Testing</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-      <img src="https://img.shields.io/badge/Playwright_APIRequestContext-2EAD33?style=flat-square" />
-      <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square" />
-      <img src="https://img.shields.io/badge/JSON_%2F_XML_Validation-CB3837?style=flat-square" />
-      <img src="https://img.shields.io/badge/ETL_Data_Testing-4285F4?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>AI-Assisted QA</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Claude_%26_AI_Assistants-D97706?style=flat-square&logo=anthropic&logoColor=white" />
-      <img src="https://img.shields.io/badge/Synthetic_Test_Generation-8B5CF6?style=flat-square" />
-      <img src="https://img.shields.io/badge/AI_Root--Cause_Analysis-06B6D4?style=flat-square" />
-      <img src="https://img.shields.io/badge/Prompt_Engineering_for_QA-EC4899?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Cloud & DevOps CI/CD</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/CI%2FCD_Quality_Gates-34A853?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Non-Functional & Governance</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/OWASP_ZAP_(Security)-2D3748?style=flat-square&logo=owasp&logoColor=white" />
-      <img src="https://img.shields.io/badge/Apache_JMeter_(Load)-D22128?style=flat-square&logo=apachejmeter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-      <img src="https://img.shields.io/badge/Xray_Defect_Tracking-1E88E5?style=flat-square" />
-      <img src="https://img.shields.io/badge/IEEE_829_Documentation-6C757D?style=flat-square" />
-    </td>
-  </tr>
-</table>
+- **Arivoo LMS (Multi-Tenant SaaS):** Architected a Python/Playwright/Pytest automation framework with Page Object Model architecture, cutting regression execution time by 60% across Admin, Teacher, and Student workflows.
+- **CI/CD Quality Pipelines:** Embedded the automated suite into GitHub Actions with automated reporting, reducing release regression turnaround from 8 hours to 3 hours across 4 releases per month.
+- **AI-Assisted Quality Engineering:** Incorporated AI workflows into the daily development cycle for test authoring, edge case generation, and automated failure root-cause analysis.
+- **Non-Functional Testing:** Executed OWASP ZAP security assessments across two production platforms (identified 15+ vulnerabilities, achieving a 90% pre-release resolution rate) and conducted Apache JMeter load tests at 100+ concurrent virtual users.
+- **API & Mobile Test Engineering:** Authored REST API tests using Postman (50+ endpoints) and cross-platform mobile verification (100+ test cases per release) for iOS and Android.
+- **ETL Data Validation:** Verified data-processing logic for a UAE e-invoicing compliance tool, achieving 99%+ accuracy across 100+ validation suites.
 
 ---
 
-### 📜 Certifications & Education
+## Technical Skills
 
-- ☁️ **AWS Certified Solutions Architect – Associate (SAA-C03)** — *Amazon Web Services (2026)*
-- 🧪 **Foundations of Software Testing and Validation** — *(2025)*
-- 📊 **Google Project Management Professional Certificate** — *(2025)*
-- 🎓 **Bachelor of Technology (B.Tech) in Electronics & Communication Engineering**
-  - *GITAM University, Visakhapatnam (GPA: 8.25 / 10 | Class of 2025)*
+| Domain | Technologies & Methodologies |
+| :--- | :--- |
+| **Automation & Frameworks** | Playwright, Pytest, Cucumber (BDD), Selenium, Page Object Model (POM), Data-Driven Testing |
+| **Languages & Runtimes** | Python, TypeScript, JavaScript, SQL, PL/SQL, Bash, Node.js |
+| **API & Systems Testing** | Postman, Playwright APIRequestContext, RESTful APIs, JSON / XML Schema Validation, ETL Validation |
+| **AI-Assisted Testing** | AI-driven test authoring, prompt engineering for QA, automated root-cause analysis, synthetic data generation |
+| **CI/CD & DevOps** | GitHub Actions, AWS, Docker, Git, CI/CD regression gating and automated reporting |
+| **Non-Functional Testing** | OWASP ZAP (Security Testing), Apache JMeter (Load & Performance Testing) |
+| **Test Governance** | Requirements Traceability Matrix (RTM), IEEE 829 Test Documentation, Jira, Xray, Bug Lifecycle Management |
 
 ---
 
-### 📊 GitHub Activity & Metrics
+## Certifications & Education
+
+### Certifications
+- **AWS Certified Solutions Architect – Associate (SAA-C03)** — Amazon Web Services *(2026)*
+- **Foundations of Software Testing and Validation** *(2025)*
+- **Google Project Management Professional Certificate** *(2025)*
+
+### Education
+- **Bachelor of Technology (B.Tech) in Electronics & Communication Engineering**  
+  *GITAM University, Visakhapatnam (GPA: 8.25 / 10 | 2021 – 2025)*
+
+---
+
+## GitHub Metrics
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ManasDevHub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Manas's GitHub Stats" height="175" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ManasDevHub&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasDevHub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasDevHub&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
       </td>
     </tr>
   </table>
-  
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManasDevHub&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </p>
 </div>
 
 ---
 
-### 📬 Let's Connect & Collaborate!
+## Contact
 
-I'm always keen to discuss modern test automation architectures, CI/CD quality engineering, and innovative QA methodologies.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/manas-ranjan-p-766242224/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mranjanpt@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/ManasDevHub"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-<p align="center">
-  <sub>⭐ If you find my automation frameworks or test architectures valuable, feel free to star the repositories!</sub>
-</p>
+- **LinkedIn:** [linkedin.com/in/manas-ranjan-p-766242224](https://www.linkedin.com/in/manas-ranjan-p-766242224/)
+- **GitHub:** [github.com/ManasDevHub](https://github.com/ManasDevHub)
+- **Email:** [mranjanpt@gmail.com](mailto:mranjanpt@gmail.com)
