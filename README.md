@@ -124,8 +124,8 @@ Software Development Engineer in Test (SDET) and Quality Assurance Engineer with
 
 ### Certifications
 - [**AWS Certified Solutions Architect – Associate (SAA-C03)**](https://www.credly.com/badges/831a4cad-7809-4835-9d72-960dca12b919) — Amazon Web Services *(2026)*
-- **Foundations of Software Testing and Validation** *(2025)*
-- **Google Project Management Professional Certificate** *(2025)*
+- [**Foundations of Software Testing and Validation**](https://www.coursera.org/account/accomplishments/verify/IWMX643J4SAF) *(2025)*
+- [**Google Project Management Professional Certificate**](https://www.coursera.org/account/accomplishments/specialization/9JFJDT4EHAYG) *(2025)*
 
 ### Education
 - **Bachelor of Technology (B.Tech) in Electronics & Communication Engineering**  
